@@ -16,7 +16,7 @@ This is a simple **Laravel Student CRUD API** project that demonstrates how to p
 
 ## 🛠️ Tech Stack
 
-* **Laravel 11**
+* **Laravel 12**
 * **PHP 8**
 * **MySQL**
 * **Postman**
